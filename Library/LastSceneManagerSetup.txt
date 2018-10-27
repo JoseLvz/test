@@ -1,0 +1,4 @@
+sceneSetups:
+- path: H:/Unity Projects/Epoje 4.0/Assets/Escenas/bosque.unity
+  isLoaded: 1
+  isActive: 1
